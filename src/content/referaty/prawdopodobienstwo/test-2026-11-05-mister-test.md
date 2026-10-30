@@ -1,7 +1,7 @@
 ---
 tytul: "Testowe: Extremes of Gaussian processes over random time horizons"
 prelegent: "Mister Test"
-afiliacja: "Uppsala University"
+afiliacja: "Uniwersytet Test"
 termin: "2026-11-05T12:15"
 sala: "603"
 opublikowany: true
