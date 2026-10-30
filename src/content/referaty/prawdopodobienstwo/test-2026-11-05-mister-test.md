@@ -1,6 +1,6 @@
 ---
 tytul: "Testowe: Extremes of Gaussian processes over random time horizons"
-prelegent: "Elias Norrgård"
+prelegent: "Mister Test"
 afiliacja: "Uppsala University"
 termin: "2026-11-05T12:15"
 sala: "603"
