@@ -2,6 +2,7 @@
 tytul: "Testowe: Extremes of Gaussian processes over random time horizons"
 prelegent: "Mister Test"
 afiliacja: "Uniwersytet Test"
+afiliacja_en: "Test University"
 termin: "2026-11-05T12:15"
 sala: "603"
 opublikowany: true
