@@ -9,6 +9,8 @@ archiwum: "http://math.uni.wroc.pl/~krawiec/seminar/"
 zaklad: "teoria-prawdopodobienstwa"
 aktywne: true
 tresc_en: "The seminar is open to everyone interested."
+haslo: "Procesy, ryzyko i kolejki"
+haslo_en: "Processes, risk and queues"
 opublikowany: true
 ---
 
