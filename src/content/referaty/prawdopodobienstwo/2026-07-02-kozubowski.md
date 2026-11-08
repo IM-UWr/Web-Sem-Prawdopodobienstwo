@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Flexible Multivariate Skew Distributions via Coordinate-wise and Spectral Gaussian Mixtures"
 prelegent: "Tomasz J. Kozubowski"
 afiliacja: "University of Nevada, Reno"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 nazwa: "Teoria prawdopodobieństwa i modelowanie stochastyczne"
 nazwa_en: "Probability Theory and Stochastic Modelling"
 prowadzacy:
