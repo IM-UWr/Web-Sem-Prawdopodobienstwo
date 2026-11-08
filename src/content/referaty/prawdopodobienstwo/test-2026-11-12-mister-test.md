@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Testowe: Extremes of Gaussian processes over random time horizons"
 prelegent: "Mister Test"
 afiliacja: "Uniwersytet Test"
