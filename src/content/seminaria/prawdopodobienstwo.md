@@ -2,7 +2,6 @@
 nazwa: "Teoria prawdopodobieństwa i modelowanie stochastyczne"
 nazwa_en: "Probability Theory and Stochastic Modelling"
 prowadzacy_ze_spisu:
-  - "_cms/pracownicy/ryszard-szekli.yml"
   - "_cms/pracownicy/krzysztof-debicki.yml"
 kontakt: "michal.krawiec@math.uni.wroc.pl"
 archiwum: "http://math.uni.wroc.pl/~krawiec/seminar/"
